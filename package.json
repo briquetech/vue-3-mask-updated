@@ -1,6 +1,6 @@
 {
 	"name": "vue-3-mask-updated",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "An updated package to create masks on input fields for Vue3",
 	"main": "index.js",
 	"scripts": {},
@@ -8,6 +8,6 @@
 	"author": "Jay Pagnis <jayvpagnis@gmail.com>",
 	"license": "MIT",
 	"peerDependencies": {
-	  "vue": "^3.0.0"
+	  "vue": "^3.x.x"
 	}
   }
