@@ -1,13 +1,28 @@
 {
-	"name": "vue-3-mask-updated",
-	"version": "0.0.4",
-	"description": "An updated package to create masks on input fields for Vue3",
-	"main": "index.js",
-	"scripts": {},
-	"keywords": ["vue", "vue3", "input", "mask"],
-	"author": "Jay Pagnis <jayvpagnis@gmail.com>",
-	"license": "MIT",
-	"peerDependencies": {
-	  "vue": "^3.x.x"
-	}
+  "name": "vue-3-mask-updated",
+  "version": "0.0.4",
+  "description": "An updated package to create masks on input fields for Vue3",
+  "main": "index.js",
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briquetech/vue-3-mask-updated.git"
+  },
+  "keywords": [
+    "vue3",
+    "input",
+    "mask",
+    "textfield",
+    "mask",
+    "mask"
+  ],
+  "author": "Jay Pagnis <jayvpagnis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briquetech/vue-3-mask-updated/issues"
+  },
+  "homepage": "https://github.com/briquetech/vue-3-mask-updated#readme",
+  "peerDependencies": {
+	"vue": "^3.x.x"
   }
+}
