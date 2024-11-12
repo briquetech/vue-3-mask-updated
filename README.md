@@ -98,5 +98,4 @@ You will be able to assign classes to the component.
 
 ## Contributing
 
-We welcome contributions to the vue-3-mask library. If you find a bug or have an idea for a new feature, please feel free to open an issue or submit a pull request. Before
-
+We welcome contributions to the vue-3-mask-updated library. If you find a bug or have an idea for a new feature, please feel free to open an [issue](https://github.com/briquetech/vue-3-mask-updated/issues).

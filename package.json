@@ -1,7 +1,7 @@
 {
 	"name": "vue-3-mask-updated",
-	"version": "0.0.2",
-	"description": "An updated mask library for input fields in Vue 3",
+	"version": "0.0.3",
+	"description": "An updated package to create masks on input fields for Vue3",
 	"main": "index.js",
 	"scripts": {},
 	"keywords": ["vue", "vue3", "input", "mask"],
