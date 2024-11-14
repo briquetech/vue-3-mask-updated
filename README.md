@@ -70,6 +70,18 @@ a: Any lowercase alphabetic character (a-z)
 !: Escape character (use the next character in the mask as a literal)
 ```
 
+## Attribute description
+
+| Attribute | Required | Default | Values | Description |
+|-----------|--------- |---------|--------|-------------|
+| mask | Yes | None |As given in the above table | This is the most important attribute without which the mask will not work. Please follow the above guidelines to create a mask. |
+| class | No | None | - | You can assign classes to the input field. |
+| id | No | None | - | You can assign an ID to the input field. |
+| placeholder | No | empty | - | You can assign a placeholder to the input field. |
+| readonly | No | false/empty | - | You can make the field read only. |
+| v-model | Yes | None | - | You can set the v-model of the input element. |
+| textmode | No | empty | uppercase - If the text should be converted to upppercase. Eg. NEW YORK<br>lowercase - If the text should be converted to lowercase. Eg. new york<br>sentencecase - If the text should be converted to sentence case. Eg. New york |
+
 Here's an example of using the MaskInput component with a phone number mask:
 
 ```vue
